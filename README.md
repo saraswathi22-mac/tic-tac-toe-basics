@@ -2,4 +2,8 @@
 
 This is a simple tic tac toe game
 
-To run this, use npm start
+# TODO
+
+- Create a signIn and signOut functionality for a user
+- Add authentication for Admin(Can see all the users in a dashboard with CRUD functionality) and User
+- Add Typescript for the project
