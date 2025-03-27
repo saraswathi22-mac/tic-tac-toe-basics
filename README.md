@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic Tac Toe Basics
 
 This is a simple tic tac toe game
 
